@@ -1,0 +1,12 @@
+INFO  2017-10-16 23:33:07,795 ASSERTION  : FAIL Failed loading driver(Browser). Please check values for driver and driver_path in Environment sheet.  Error:null Stack Trace: [Ljava.lang.StackTraceElement;@33c7353a
+INFO  2017-10-16 23:33:07,887 FAIL Failed loading driver(Browser). Please check values for driver and driver_path in Environment sheet.  Error:null Stack Trace: [Ljava.lang.StackTraceElement;@685f4c2e
+INFO  2017-10-16 23:33:58,229 DONE Start --> getValueForProperty
+INFO  2017-10-16 23:33:58,242 ASSERTION  : DONE Start --> getValueForProperty
+INFO  2017-10-16 23:33:58,362 DONE Start --> XMLUtil > getXMLContent
+INFO  2017-10-16 23:33:58,363 ASSERTION  : DONE Start --> XMLUtil > getXMLContent
+INFO  2017-10-16 23:33:58,368 DONE XMLUtil > getXMLContent : Getting xml file content from the file: C:/SeleniumProjects/cca-portal/testdata//member
+INFO  2017-10-16 23:33:58,369 ASSERTION  : DONE XMLUtil > getXMLContent : Getting xml file content from the file: C:/SeleniumProjects/cca-portal/testdata//member
+INFO  2017-10-16 23:33:58,378 DONE End -->  XMLUtil > getXMLContent
+INFO  2017-10-16 23:33:58,379 ASSERTION  : DONE End -->  XMLUtil > getXMLContent
+INFO  2017-10-16 23:33:58,385 DONE End --> getValueForProperty
+INFO  2017-10-16 23:33:58,385 ASSERTION  : DONE End --> getValueForProperty
